@@ -18,3 +18,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
+### :blue_book: Algorithm 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jessenorris94)](https://solved.ac/jessenorris94)
