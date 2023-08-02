@@ -10,12 +10,16 @@
 ***
 ### :e-mail: Contact
 - ktsdsd94@gmail.com
-* * *
+<br>
 
-### :e-mail: Hobby
-- ktsdsd94@gmail.com
-* * *
+<h3><b>💌 Social 💌 </b></h3>
+<a href="https://www.instagram.com/raven9_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/raven9_"/></a>
 
+
+### :v: Hobby
+- Weight Training (I ❤️ Bodybuilding)
+
+* * *
 
 <h3>📚 STACKS</h3>
 <div align=center>
