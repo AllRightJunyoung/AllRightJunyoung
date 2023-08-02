@@ -12,6 +12,11 @@
 - ktsdsd94@gmail.com
 * * *
 
+### :e-mail: Hobby
+- ktsdsd94@gmail.com
+* * *
+
+
 <h3>📚 STACKS</h3>
 <div align=center>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
