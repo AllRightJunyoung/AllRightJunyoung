@@ -17,7 +17,9 @@
 
 
 ### :v: Hobby
-- Weight Training (I ❤️ Bodybuilding)
+- Weight Training :muscle: (I ❤️ Bodybuilding)
+- Mountain climbing :sunrise_over_mountains:
+- Swimming  :swimmer:
 
 * * *
 
