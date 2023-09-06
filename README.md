@@ -13,7 +13,7 @@
 <br>
 
 <h3><b>💌 Social 💌 </b></h3>
-<a href="https://www.instagram.com/junyoung_workout_diary"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/raven9_"/></a>
+<a href="https://www.instagram.com/diary_raven"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/raven9_"/></a>
 
 
 ### :v: Hobby
