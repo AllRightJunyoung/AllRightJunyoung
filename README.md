@@ -2,9 +2,8 @@
 
 
 ### :earth_americas: Experience
-- 인천 정보산업고등학교 (2010.03 ~ 2013.02)
 - 충남대 컴퓨터공학과 (2013.03 ~ 2021.02)
-- F-lab 프론트엔드 멘토링
+- F-lab 프론트엔드 멘토링 (2022.06 ~ 2023.02)
 - Next-step React CleanCode (2023.02 ~ 2023.04)
 
 ***
@@ -27,8 +26,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/testinglibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white">
