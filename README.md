@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=JunYoung&fontSize=50)
 
+### 😄 About me
+- https://www.physicaljun.blog/about
 
 ### :earth_americas: Experience
 - 충남대 컴퓨터공학과 (2013.03 ~ 2021.02)
