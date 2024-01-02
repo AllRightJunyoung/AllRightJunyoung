@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=JunYoung&fontSize=50)
 
 ### :earth_americas: Experience
+- 인천 정보 산업 고등학교 (2010.03 ~ 2013.02)
 - 충남대 컴퓨터공학과 (2013.03 ~ 2021.02)
-- F-lab 프론트엔드 멘토링 (2022.06 ~ 2023.02)
-- Next-step React CleanCode (2023.02 ~ 2023.04)
 
 ***
 ### :e-mail: Contact
@@ -16,7 +15,7 @@
 
 * * *
 
-<h3>📚 STACKS</h3>
+<h3>📚 사용해봤던 기술</h3>
 <div align=center>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
