@@ -33,7 +33,5 @@
 
 * * *
 ###  :sunny: Algorithm 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jessenorris94)](https://solved.ac/jessenorris94)
-
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JunYoungJS)
