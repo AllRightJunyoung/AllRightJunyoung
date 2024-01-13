@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=JunYoung&fontSize=50)
 
 ### :earth_americas: Experience
-- 인천 정보 산업 고등학교 (2010.03 ~ 2013.02)
-- 충남대 컴퓨터공학과 (2013.03 ~ 2021.02)
+- 인천 정보 산업 고등학교
+- 충남대 컴퓨터공학과
 
 ***
 ### :e-mail: Contact
