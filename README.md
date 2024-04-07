@@ -30,3 +30,10 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=StoryBook&logoColor=white">
 </div>
+
+* * *
+###  :sunny: Algorithm 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jessenorris94)](https://solved.ac/jessenorris94)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JunYoungJS)
